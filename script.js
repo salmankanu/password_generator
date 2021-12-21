@@ -76,8 +76,6 @@ function getPasswordOptionSet() {
     options+=specialCharacters
   }
 
-//finalPassword = makePassword(passwordLength, options)
-//console.log(options)
 
 return options
 }
